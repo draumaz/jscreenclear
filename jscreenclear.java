@@ -42,7 +42,7 @@ class jscreenclear {
 					try {
 						Thread.sleep(1000);
 					} catch (InterruptedException ie) {
-						System.out.println("Interrupted exception encountered.");
+						System.out.println("Another interrupted exception encountered.");
 					}
 				}
 				System.exit(0);
