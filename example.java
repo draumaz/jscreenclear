@@ -1,3 +1,6 @@
+// draumaz/jscreenclear
+// BSD-3
+
 class example { // Example script
 	public static void example_script() throws InterruptedException {
 		String[] hello = {"BINGO","BANGO","BONGO"};
