@@ -1,4 +1,4 @@
-# jscreenclear
+# draumaz/jscreenclear
 Java terminal screen-clear function
 
 # Usage
